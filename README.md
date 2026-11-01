@@ -46,7 +46,7 @@ Designed with simplicity, functionality and aesthetics in mind, VEYRO helps you 
 
 ### Dashboard
 <!-- Add your dashboard screenshot here -->
-<img src="D:/Dashboard.png" alt="VEYRO Dashboard" width="85%">
+<img src="C:\Users\koustav\Pictures\Dashboard.png" alt="VEYRO Dashboard" width="85%">
 
 </div>
 
